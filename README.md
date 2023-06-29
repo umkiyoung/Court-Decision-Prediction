@@ -27,4 +27,4 @@
 - submission_4 : Bert tokenizer + DNN(upsampling)
 - submission_5 : Bert tokenizer + DNN(downsampling)
 
-Current Best Score: submission_4 with 0.50967
+Current Best Score: submission_4 with **0.50967**
